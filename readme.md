@@ -10,4 +10,12 @@ The Cerflet project provides an easy way to map HTTP requests to handlers, all u
 
 ## Example ##
 
-See the 'Hello World' example in the 'sample' folder for a basic implementation of a HTTP Cerflet. 
+See the 'Hello World' example in the 'sample' folder for a basic implementation of a HTTP Cerflet.
+
+## Requirements ##
+
+In order to build projects with Cerflet the only requirement is to have the POCO C++ libraries and headers installed. For Linux/BSD/OS X and MSYS2 use a package manager, or install from source.
+
+## License ##
+
+The Cerflet license at this point is the same Boost Software License 1.0 as used by the POCO C++ libraries.
