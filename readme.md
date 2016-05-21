@@ -12,6 +12,10 @@ The Cerflet project provides an easy way to map HTTP requests to handlers, all u
 
 See the 'Hello World' example in the 'sample' folder for a basic implementation of a HTTP Cerflet.
 
+## See also ##
+
+Read this blog post introducing Cerflet for more information and benchmarks of the Hello World example: [https://mayaposch.wordpress.com/2016/05/19/cerflet-like-servlets-but-with-more-c/](https://mayaposch.wordpress.com/2016/05/19/cerflet-like-servlets-but-with-more-c/)
+
 ## Requirements ##
 
 In order to build projects with Cerflet the only requirement is to have the POCO C++ libraries and headers installed. For Linux/BSD/OS X and MSYS2 use a package manager, or install from source.
